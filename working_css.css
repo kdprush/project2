@@ -1,0 +1,97 @@
+/*navigation*/
+#main-navbar{
+    background-color: blue;         
+    overflow: hidden;
+}
+
+#navbar-container{
+    float: left;                                
+    width: 100%;                          
+    position: relative;
+}
+
+#main-navbar ul {
+    list-style-type: none;               
+    margin: 0;                               
+    padding: 0; 
+    left: 50%;                                
+    float: left;
+    position: relative;                               
+}
+
+#main-navbar ul li{
+    position: relative;
+    float: left;
+    right: 50%;
+    display: block;
+}
+
+#main-navbar ul li a{
+    display: block;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+
+}
+
+#main-navbar ul li a:hover{    
+    background-color: #000;
+}
+
+#onpage{
+    text-decoration: overline underline;
+}
+
+/*sidebar*/
+
+#sidebar{
+    position: fixed;
+    right:0%;
+    background-color: red;
+    height:100%;
+    width: 20%;
+    
+
+}
+
+
+#sidebar ul {
+    list-style-type: none;
+	text-align: center;
+	padding: 0;
+	
+
+}
+
+#sidebar ul li a{
+display: block;
+padding: 15px 0;
+color: #fff;
+text-decoration: none;
+    
+    
+
+}
+
+#sidebar ul li a:hover{
+    background-color: #000;
+
+}
+	                   
+                    
+                   
+                    
+/*colors to use
+
+.color1 {color: #4a3469;}
+.color2 {color: #833c7b;}
+.color3 {color: #ce4d88;}
+.color4 {color: #ff7897;}
+.color5 {color: #ffb79c;}
+
+*/
+
+  
+    
+    
+
