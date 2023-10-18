@@ -57,6 +57,12 @@ header {
     height: 65px;
 }
 
+p {
+    display: block;
+    padding: 10px 20px;
+}
+
+
 nav ul {
     display: inline-block;
     padding-left: 0;
@@ -70,7 +76,7 @@ nav li {
     position: relative;
     display: inline-block;
     margin: 10px;
-    left: 165%;
+    left:0%;
 }
 
 nav li a {
@@ -89,4 +95,21 @@ a:focus {
 a:hover {
     color: #425BB5;
     text-decoration: none;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+}
+
+div{
+    
 }
