@@ -4,6 +4,37 @@ h1 {
     font-family: 'Lato', serif;
     font-size: 50px;
     line-height: 70px;
+    
+}
+
+h3 {
+    font-family: 'Lato' sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    position: relative;
+    margin-left: 40px;
+    font-weight: 700;
+
+}
+
+h2 {
+    font-family: 'Lato' sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    position: relative;
+    margin-left: 40px;
+    font-weight: 700;
+
+}
+
+
+ul {
+    font-family: 'Lato' sans-serif;
+    letter-spacing: 2px;
+    position: relative;
+    margin-left: 40px;
+    font-weight: 200;
+
 }
 
 h4 {
@@ -14,6 +45,17 @@ h4 {
     color: #425BB5;
     margin-left: 40px;
     font-weight: 700;
+    font-size: 25px;
+}
+
+strong {
+    font-family: 'Lato' sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    position: relative;
+    margin-left: 40px;
+    font-weight: 700;
+
 }
 
 h4:before {
@@ -60,6 +102,7 @@ header {
 p {
     display: block;
     padding: 10px 20px;
+    margin-left: 40px;
 }
 
 
@@ -111,5 +154,5 @@ video {
 }
 
 div{
-    
+
 }
