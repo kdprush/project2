@@ -45,13 +45,13 @@ h4 {
     color: #425BB5;
     margin-left: 40px;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 strong {
     font-family: 'Lato' sans-serif;
     text-transform: capitalize;
-    letter-spacing: 2px;
+    letter-spacing: 20px;
     position: relative;
     margin-left: 40px;
     font-weight: 700;
