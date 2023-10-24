@@ -110,11 +110,11 @@ br {
     position: relative;
 }
 
-#main-navbar {
+nav ul {
     display: inline-block;
     padding-left: 0;
     list-style: none;
-    padding: 40px;
+    padding: 20px;
     margin-bottom: 0;
     margin-left: auto;
     margin-right: auto;
