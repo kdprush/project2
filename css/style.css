@@ -104,6 +104,15 @@ p {
     padding: 10px 20px;
     margin-left: auto;
     margin-right: auto;
+    position: relative;
+}
+
+em {
+    display: block;
+    text-align: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 br {
@@ -157,6 +166,7 @@ a:hover {
     width: 25%;
     height: 25%;
 
+
 }
 
 video {
@@ -197,6 +207,8 @@ table {
     width: 100%;
     border-collapse: collapse;
     border: 10px solid rgb(87, 0, 128);
+    margin-left: auto;
+    margin-right: auto;
   }
 
   li {
