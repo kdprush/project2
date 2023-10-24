@@ -116,6 +116,9 @@ nav ul {
     list-style: none;
     padding: 20px;
     margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
 }
 
 nav li {
