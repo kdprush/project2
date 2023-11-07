@@ -1,10 +1,16 @@
+.resume_section {
+    width: 75%;
+    list-style-type: none;
+    margin: 20vh;
+    padding: 3vh;
 
+}
 
 h1 {
     font-family: 'Lato', serif;
     font-size: 50px;
     line-height: 70px;
-    margin-top: 40px;
+    margin-top: 20vh;
     left: 50%;
     float: none;
     position: absolute;
@@ -135,6 +141,8 @@ br {
     top:0%;
     left: 50%;
     transform: translate(-50%, -50%);
+    margin-top: 10vh;
+    
 }
 
 nav ul {
@@ -161,9 +169,11 @@ nav li a {
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #444;
+    color: #425BB5;
     font-size: 11px;
     position: sticky;
+    padding: 3vh;
+    font-weight:900;
 }
 
 a:focus {
