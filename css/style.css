@@ -12,12 +12,9 @@ h1 {
     line-height: 70px;
     text-align: center;
     margin-top: 0%;
-    left: 50%;
     float: none;
-    position: fixed;
-    top:10%;
-    right: 0%;
-    transform: translate(-50%, 50%);
+    position: relative;
+    
 }
 
 h3 {
