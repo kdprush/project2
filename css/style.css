@@ -158,6 +158,7 @@ nav li {
 }
 
 nav li a {
+    text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #444;
