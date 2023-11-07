@@ -240,6 +240,18 @@ div {
     list-style-type: none;
     margin: 10vh;
     padding: 3vh;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.Rabbit_links_section {
+    position:relative;
+    width: 75%;
+    text-align: center;
+    list-style-type: none;
+    margin: 20vh;
+    padding: 3vh;
 
 }
 
@@ -280,10 +292,10 @@ table {
   .Triathlon_links_section {
     position:relative;
     width: 75%;
-    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
     list-style-type: none;
-    margin: 20vh;
-    padding: 3vh;
+
 
 }
 
@@ -292,5 +304,7 @@ table {
     list-style-type: none;
     margin: 10vh;
     padding: 3vh;
+    margin-left: auto;
+    margin-right: auto;
 
 }
