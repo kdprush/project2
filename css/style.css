@@ -262,7 +262,7 @@ div {
 .Rabbit_links_section {
     position:relative;
     width: 75%;
-    text-align: center;
+    text-align: left;
     list-style-type: none;
     margin: 20vh;
     padding: 3vh;
